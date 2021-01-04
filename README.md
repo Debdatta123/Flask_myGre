@@ -6,6 +6,9 @@ Our carefully crafted study guide accommodate varying study times and skills , s
 ## Website URL
 Go to the website: https://mygreapp.herokuapp.com/
 
+## Demo
+![](gre.gif)
+
 ## Built With
 * [Python](https://docs.python.org/3/) - Programming Language
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - Web Framework Used
